@@ -1,0 +1,92 @@
+.App {
+  text-align: center;
+  color: rgb(56, 56, 56);
+}
+
+.App-header {
+  background-color: black;
+  padding: 20px;
+  color: white;
+  background-image: url("youtube-banner-resize1.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+@media only screen and (min-width: 600px) {
+  .App-header {
+    background-size: contain;
+  }
+}
+
+main {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 20px;
+  margin-bottom: 50px;
+}
+
+section {
+  flex: 1;
+  margin: 0 5px;
+  background-color: aquamarine;
+  border-radius: 22px;
+  line-height: 1.5em;
+}
+
+ul {
+  list-style-type: circle;
+  padding: 0;
+  text-align: left;
+  padding-left: 10%;
+  padding-right: 5%;
+}
+
+h2 {
+  font-style: italic;
+  color: white ;
+  text-shadow:1px 1px black;
+  
+}
+
+footer {
+  background-color: black;
+  padding: 2px;
+  color: white;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
+#cards {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  padding: 20px;
+}
+#card {
+  display: flex;
+  flex-direction: column;
+  background-color: rgb(224, 224, 224);
+  border-radius: 22px;
+  margin:5px;
+  width: 22vw;
+}
+#card img {
+  width: 100%;
+}
+
+.video-responsive {
+  overflow: hidden;
+  padding-bottom: 56.25%;
+  position: relative;
+  height: 0;
+}
+
+.video-responsive iframe {
+  left: 0;
+  top: 0;
+  height: 100%;
+  width: 100%;
+  position: absolute;
+}
