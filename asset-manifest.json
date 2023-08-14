@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/artcodestudio01.github.io/artcodeweb/static/css/main.53970d4c.css",
-    "main.js": "/artcodestudio01.github.io/artcodeweb/static/js/main.720bed03.js",
-    "static/js/787.c57d3fb2.chunk.js": "/artcodestudio01.github.io/artcodeweb/static/js/787.c57d3fb2.chunk.js",
-    "static/media/youtube-banner-resize1.png": "/artcodestudio01.github.io/artcodeweb/static/media/youtube-banner-resize1.18d4aea742133f246298.png",
-    "index.html": "/artcodestudio01.github.io/artcodeweb/index.html",
-    "main.53970d4c.css.map": "/artcodestudio01.github.io/artcodeweb/static/css/main.53970d4c.css.map",
-    "main.720bed03.js.map": "/artcodestudio01.github.io/artcodeweb/static/js/main.720bed03.js.map",
-    "787.c57d3fb2.chunk.js.map": "/artcodestudio01.github.io/artcodeweb/static/js/787.c57d3fb2.chunk.js.map"
+    "main.css": "/artcodeweb/static/css/main.b1181d40.css",
+    "main.js": "/artcodeweb/static/js/main.1d6afccc.js",
+    "static/js/787.c57d3fb2.chunk.js": "/artcodeweb/static/js/787.c57d3fb2.chunk.js",
+    "static/media/youtube-banner-resize1.png": "/artcodeweb/static/media/youtube-banner-resize1.18d4aea742133f246298.png",
+    "index.html": "/artcodeweb/index.html",
+    "main.b1181d40.css.map": "/artcodeweb/static/css/main.b1181d40.css.map",
+    "main.1d6afccc.js.map": "/artcodeweb/static/js/main.1d6afccc.js.map",
+    "787.c57d3fb2.chunk.js.map": "/artcodeweb/static/js/787.c57d3fb2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.53970d4c.css",
-    "static/js/main.720bed03.js"
+    "static/css/main.b1181d40.css",
+    "static/js/main.1d6afccc.js"
   ]
 }
